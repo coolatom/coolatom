@@ -32,6 +32,10 @@ I'm interested in IT, modern technology, a bit of comics, a bit of anime, retro 
 I hope my work makes the world a better place!
 - 🔭 I’m currently working on chatapp on #React, #Node.js and #Socket.io
 - 🌱 I’m currently learning JavaScript, React & Redux, Node.js
+- ⚡ Fun fact:
+My older brother called me a "red-haired Jew" - out of my thirst for knowledge.:nerd_face:	
+And the younger one saw me as a super-hero - cause I could solve any problem.:superhero_man:	
+As a result, I became a developer!:microscope:+:zap:=:man_technologist:
 - 📫 How to reach me:
 <div id="contact" align="left">
 	<p>		:arrow_right:	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to 		coolatom</a>
@@ -40,7 +44,4 @@ I hope my work makes the world a better place!
 	<br />  :arrow_right:	<a href="https://t.me/kartemo" target="_blank">send massege to coolatom via #Telegram</a>
 	<br />  :arrow_right:	<a href="https://us04web.zoom.us/j/9920662363?pwd=R2FyUVBkZVhpRWNmZDcxNVBrUUM2Zz09" target="_blank">start meeting in zoom with coolatom</a>
 </div>
-- ⚡ Fun fact:
-My older brother called me a "red-haired Jew" - out of my thirst for knowledge.:nerd_face:	
-And the younger one saw me as a super-hero - cause I could solve any problem.:superhero_man:	
-As a result, I became a developer!:microscope:+:zap:=:man_technologist:
+
