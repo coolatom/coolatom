@@ -39,9 +39,9 @@ As a result, I became a developer!:microscope:+:zap:=:man_technologist:
 - 📫 How to reach me:
 <div id="contact" align="left">
 	<p>		:arrow_right:	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to 		coolatom</a>
-	<br />  :arrow_right:	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in #LinkedIn</a>
-	<br />  :arrow_right:	<a href="https://www.facebook.com/artem.kucheriavyi/" target="_blank">coolatom in #Facebook</a>
-	<br />  :arrow_right:	<a href="https://t.me/kartemo" target="_blank">send massege to coolatom via #Telegram</a>
+	<br />  :arrow_right:	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in LinkedIn</a>
+	<br />  :arrow_right:	<a href="https://www.facebook.com/artem.kucheriavyi/" target="_blank">coolatom in Facebook</a>
+	<br />  :arrow_right:	<a href="https://t.me/kartemo" target="_blank">send massege to coolatom via Telegram</a>
 	<br />  :arrow_right:	<a href="https://us04web.zoom.us/j/9920662363?pwd=R2FyUVBkZVhpRWNmZDcxNVBrUUM2Zz09" target="_blank">start meeting in zoom with coolatom</a>
 </div>
 
