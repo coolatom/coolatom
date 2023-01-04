@@ -34,11 +34,11 @@ I hope my work makes the world a better place!
 - 🌱 I’m currently learning JavaScript, React & Redux, Node.js
 - 📫 How to reach me:
 <div id="contact" align="left">
-:arrow_right:	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to coolatom</a>
-:arrow_right:	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in #LinkedIn</a>
-:arrow_right:	<a href="https://www.facebook.com/artem.kucheriavyi/" target="_blank">coolatom in #Facebook</a>
-:arrow_right:	<a href="https://t.me/kartemo" target="_blank">send massege to coolatom via #Telegram</a>
-:arrow_right:	<a href="https://us04web.zoom.us/j/9920662363?pwd=R2FyUVBkZVhpRWNmZDcxNVBrUUM2Zz09" target="_blank">start meeting in zoom with coolatom</a>
+	<p>		:arrow_right:	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to 		coolatom</a>
+	<br />  :arrow_right:	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in #LinkedIn</a>
+	<br />  :arrow_right:	<a href="https://www.facebook.com/artem.kucheriavyi/" target="_blank">coolatom in #Facebook</a>
+	<br />  :arrow_right:	<a href="https://t.me/kartemo" target="_blank">send massege to coolatom via #Telegram</a>
+	<br />  :arrow_right:	<a href="https://us04web.zoom.us/j/9920662363?pwd=R2FyUVBkZVhpRWNmZDcxNVBrUUM2Zz09" target="_blank">start meeting in zoom with coolatom</a>
 </div>
 - ⚡ Fun fact:
 My older brother called me a "red-haired Jew" - out of my thirst for knowledge.:nerd_face:	
