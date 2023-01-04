@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<a href="https://app.daily.dev/coolatom"><img src="https://api.daily.dev/devcards/c7ad859a6afd4d5c8853aae8001ff794.png?r=5t3" width="400" alt="coolatom's Dev Card"/></a>
+<a href="https://app.daily.dev/coolatom"><img src="https://api.daily.dev/devcards/c7ad859a6afd4d5c8853aae8001ff794.png?r=l97" width="400" alt="coolatom's Dev Card"/></a>
 </div>
 <div id="badges" align="center">
 <a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">
