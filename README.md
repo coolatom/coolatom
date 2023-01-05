@@ -23,21 +23,25 @@
 </div>
 
 ---
-### :person_in_tuxedo:	About me :
+###1. :person_in_tuxedo:	About me :
 I am looking for a company that needs a creative developer to join the team.
 I like to explore, experiment. I am pleased to observe the reaction to the results of my work. I have a habit of working quietly and efficiently.
 I take a responsible approach to work, I know how to process and apply information, I faithfully perform the assigned scope of work. I can go a long way towards the solution, but the rest of the solution will be simple and short.
 Ready to constantly report on the progress of tasks.
 I'm interested in IT, modern technology, a bit of comics, a bit of anime, retro video games and freehand drawing.
 I hope my work makes the world a better place!
-- 🔭 I’m currently working on chatapp on #React, #Node.js and #Socket.io
-- 🌱 I’m currently learning JavaScript, React & Redux, Node.js
-- ⚡ Fun fact:
-My older brother called me a "red-haired Jew" - out of my thirst for knowledge.:nerd_face:	
-And the younger one saw me as a super-hero - cause I could solve any problem.:superhero_man:	
-As a result, I became a developer!:microscope:+:zap:=:man_technologist:
-- 📫 How to reach me:
-<div id="contact" align="left">
+###2.	:hammer_and_wrench: I’m currently working on chatapp on React, Node.js and Socket.io.
+	:man_artist: Next, I plan to develop a chatbot that will create canvas designs for WordPress.
+	:genie_man: I want to create an assistant for quick setup in applications, on websites, for e-mail, etc.
+###3.	:man_student: I’m currently learning JavaScript, React & Redux, MongoDB, Node.js, Next.js.
+	Also, I'm learning the basics of Agile for project and product management, as well as CI/CD pipelines for
+	successful DevOps in software development.
+###4.	:joy: Fun fact:
+	My older brother called me a "red-haired Nerd" - out of my thirst for knowledge.:nerd_face:	
+	And the younger one saw me as a super-hero - cause I could solve any problem.:superhero_man:	
+	As a result, I became a developer!:microscope:+:zap:=:man_technologist:
+###5.	:incoming_envelope: How to reach me:
+<div id="contact" align="center">
 	<p>		:arrow_right:	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to 		coolatom</a>
 	<br />  :arrow_right:	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in LinkedIn</a>
 	<br />  :arrow_right:	<a href="https://www.facebook.com/artem.kucheriavyi/" target="_blank">coolatom in Facebook</a>
