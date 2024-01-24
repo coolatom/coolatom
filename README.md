@@ -24,7 +24,7 @@
 
 ---
 <div id="about" align="left">
-<big>1. :person_in_tuxedo:	About me :</big>
+<big>1. 🤵	About me :</big>
 	<blockquote>I am looking for a company that needs a creative developer to join the team.
 	<br />I like to explore, experiment. I am pleased to observe the reaction to the results of my work. I have a habit of working quietly and efficiently.
 	<br />I take a responsible approach to work, I know how to process and apply information, I faithfully perform the assigned scope of work. I can go a long way towards the solution, but the rest of the solution will be simple and short.
@@ -32,10 +32,10 @@
 	<br />I'm interested in IT, modern technology, a bit of comics, a bit of anime, retro video games and freehand drawing.
 	<br />I hope my work makes the world a better place!</blockquote>
 
-<big>2. :hammer_and_wrench: I’m currently working on:</big>
-	<blockquote>:pager: chatapp on React, Node.js and Socket.io.
-	<br />:man_artist: Next, I plan to develop a chatbot that will create canvas designs for WordPress.
-	<br />:genie_man: I want to create an assistant for quick setup in applications, on websites, for e-mail, etc.</blockquote>
+<big>2. 🛠️ I’m currently working on:</big>
+	<blockquote>📟 chatapp on React, Node.js and Socket.io.
+	<br />👨‍🎨 Next, I plan to develop a chatbot that will create canvas designs for WordPress.
+	<br />🧞‍♂️ I want to create an assistant for quick setup in applications, on websites, for e-mail, etc.</blockquote>
 	
 <big>3.	👨‍🎓 I’m currently learning:</big>
 	<blockquote>JavaScript, React & Redux, MongoDB, Node.js, Next.js.
@@ -49,10 +49,10 @@
 	
 <big>5.	📨 How to reach me:</big>
 <div id="contact" align="left"; margin=5>
-	<blockquote>:arrow_right:	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to 		coolatom</a>
-	<br />  :arrow_right:	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in LinkedIn</a>
-	<br />  :arrow_right:	<a href="https://www.facebook.com/artem.kucheriavyi/" target="_blank">coolatom in Facebook</a>
-	<br />  :arrow_right:	<a href="https://t.me/kartemo" target="_blank">send massege to coolatom via Telegram</a>
-	<br />  :arrow_right:	<a href="https://us04web.zoom.us/j/9920662363?pwd=R2FyUVBkZVhpRWNmZDcxNVBrUUM2Zz09" target="_blank">start meeting in Zoom with coolatom</a></blockquote>
+	<blockquote>➡️	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to 		coolatom</a>
+	<br />  ➡️	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in LinkedIn</a>
+	<br />  ➡️	<a href="https://www.facebook.com/artem.kucheriavyi/" target="_blank">coolatom in Facebook</a>
+	<br />  ➡️	<a href="https://t.me/kartemo" target="_blank">send massege to coolatom via Telegram</a>
+	<br />  ➡️	<a href="https://us04web.zoom.us/j/9920662363?pwd=R2FyUVBkZVhpRWNmZDcxNVBrUUM2Zz09" target="_blank">start meeting in Zoom with coolatom</a></blockquote>
 </div>
 </div>
