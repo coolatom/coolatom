@@ -37,17 +37,17 @@
 	<br />:man_artist: Next, I plan to develop a chatbot that will create canvas designs for WordPress.
 	<br />:genie_man: I want to create an assistant for quick setup in applications, on websites, for e-mail, etc.</blockquote>
 	
-<big>3.	:man_student: I’m currently learning</big>
+<big>3.	👨‍🎓 I’m currently learning:</big>
 	<blockquote>JavaScript, React & Redux, MongoDB, Node.js, Next.js.
 	<br />Also, I'm learning the basics of Agile for project and product management, as well as CI/CD pipelines for
 	successful DevOps in software development.</blockquote>
 	
-<big>4.	:joy: Fun fact:</big>
-	<blockquote>My older brother called me a "red-haired Nerd" - out of my thirst for knowledge.:nerd_face:	
-	<br />And the younger one saw me as a super-hero - cause I could solve any problem.:superhero_man:	
-	<br />As a result, I became a developer!:microscope:+:zap:=:man_technologist:</blockquote>
+<big>4.	😂 Fun fact:</big>
+	<blockquote>My older brother called me a "red-haired Nerd" - out of my thirst for knowledge.🤓	
+	<br />And the younger one saw me as a super-hero - cause I could solve any problem.🦸‍♂️	
+	<br />As a result, I became a developer!🔬+⚡=👨‍💻</blockquote>
 	
-<big>5.	:incoming_envelope: How to reach me:</big>
+<big>5.	📨 How to reach me:</big>
 <div id="contact" align="left"; margin=5>
 	<blockquote>:arrow_right:	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to 		coolatom</a>
 	<br />  :arrow_right:	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in LinkedIn</a>
