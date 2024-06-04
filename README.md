@@ -32,7 +32,7 @@
 	<br />Ready to constantly report on the progress of tasks.</p>
 	<p>I'm interested in IT, modern technology, a bit of comics, a bit of anime, retro video games and freehand drawing.
 	<br />I hope my work makes the world a better place!</p>
-	<p>Postgraduate student of the second year of studies in the specialty 071 "Accounting and taxation" (UA). The topic of my research is 		"Accounting and auditing of virtual assets in the digital economy."
+	<p><b>I'm a postgrad student of the second year of studies in the specialty 071 "Accounting and taxation" (UA). The topic of my research is 		"Accounting and auditing of virtual assets in the digital economy."</b>
 	<br />In 2026, I will defend my thesis at a specialized academic council for the degree of Doctor of Philosophy in Economics.</p>
 <h2>2. 🛠️ I’m currently working on:</h2>
 	<ul>
