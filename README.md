@@ -21,33 +21,40 @@
 <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn Badge"/>
 </a>
 </div>
-
----
+<div id="name" align="center">
+<h1>ARTEM KUCHERIAVYI (@coolatom)</h1>
+</div>
 <div id="about" align="left">
-<big>1. 🤵	About me :</big>
-	<blockquote>I am looking for a company that needs a creative developer to join the team.
-	<br />I like to explore, experiment. I am pleased to observe the reaction to the results of my work. I have a habit of working quietly and efficiently.
+<h2>1. 🤵 About me :</h2>
+	<p>I am looking for a company that needs a creative developer to join the team.</p>
+	<p>I like to explore, experiment. I am pleased to observe the reaction to the results of my work. I have a habit of working quietly and efficiently.
 	<br />I take a responsible approach to work, I know how to process and apply information, I faithfully perform the assigned scope of work. I can go a long way towards the solution, but the rest of the solution will be simple and short.
-	<br />Ready to constantly report on the progress of tasks.
-	<br />I'm interested in IT, modern technology, a bit of comics, a bit of anime, retro video games and freehand drawing.
-	<br />I hope my work makes the world a better place!</blockquote>
-
-<big>2. 🛠️ I’m currently working on:</big>
-	<blockquote>📟 chatapp on React, Node.js and Socket.io.
-	<br />👨‍🎨 Next, I plan to develop a chatbot that will create canvas designs for WordPress.
-	<br />🧞‍♂️ I want to create an assistant for quick setup in applications, on websites, for e-mail, etc.</blockquote>
-	
-<big>3.	👨‍🎓 I’m currently learning:</big>
-	<blockquote>JavaScript, React & Redux, MongoDB, Node.js, Next.js.
-	<br />Also, I'm learning the basics of Agile for project and product management, as well as CI/CD pipelines for
-	successful DevOps in software development.</blockquote>
-	
-<big>4.	😂 Fun fact:</big>
-	<blockquote>My older brother called me a "red-haired Nerd" - out of my thirst for knowledge.🤓	
+	<br />Ready to constantly report on the progress of tasks.</p>
+	<p>I'm interested in IT, modern technology, a bit of comics, a bit of anime, retro video games and freehand drawing.
+	<br />I hope my work makes the world a better place!</p>
+	<p>Postgraduate student of the second year of studies in the specialty 071 "Accounting and taxation" (UA). The topic of my research is 		"Accounting and auditing of virtual assets in the digital economy."
+	<br />In 2026, I will defend my thesis at a specialized academic council for the degree of Doctor of Philosophy in Economics.</p>
+<h2>2. 🛠️ I’m currently working on:</h2>
+	<ul>
+	<li>📟 chatapp on React, Node.js and Socket.io.</li>
+	<li>👨‍🎨 Next, I plan to develop a chatbot that will create canvas designs for WordPress.</li>
+	<li>🧞‍♂️ I want to create an assistant for quick setup in applications, on websites, for e-mail, etc.</li>
+	</ul>
+<h2>3.	👨‍🎓 I’m currently learning:</h2>
+	<ul>
+	<li>JavaScript;</li>
+	<li>React & Redux;</li>
+	<li>MongoDB;</li>
+	<li>Node.js;</li>
+	<li>Next.js.</li>
+	</ul>
+	<p>Also, I'm learning the basics of Agile for project and product management, as well as CI/CD pipelines for
+	successful DevOps in software development.</p>
+<h2>4.	😂 Fun fact:</h2>
+	<p>My older brother called me a "red-haired Nerd" - out of my thirst for knowledge.🤓	
 	<br />And the younger one saw me as a super-hero - cause I could solve any problem.🦸‍♂️	
-	<br />As a result, I became a developer!🔬+⚡=👨‍💻</blockquote>
-	
-<big>5.	📨 How to reach me:</big>
+	<br />As a result, I became a developer!🔬+⚡=👨‍💻</p>
+<h2>5.	📨 How to reach me:</h2></div>
 <div id="contact" align="left"; margin=5>
 	<blockquote>➡️	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to 		coolatom</a>
 	<br />  ➡️	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in LinkedIn</a>
