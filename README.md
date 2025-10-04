@@ -28,14 +28,14 @@
 </div>
 <div id="about" align="left">
 	<h2>1. 🤵 About me :</h2>
-		<p>I am looking for a company that needs a creative developer to join the team.</p>
-		<p>I like to explore, experiment. I am pleased to observe the reaction to the results of my work. I have a habit of working quietly and efficiently.
+		<p>Hello! I am a self-employed developer and I am looking for a company that needs a creative developer to join the team.</p>
+		<p>I am interested in unusual solutions, I write my own projects that I need myself.
+Studied web development, design, 3D modeling, marketing.
+Currently I am getting a PhD in cryptocurrency accounting and auditing. Along the way, I am studying Web3 and decentralized applications. I like to explore, experiment. I am pleased to observe the reaction to the results of my work. I have a habit of working quietly and efficiently.
 		<br />I take a responsible approach to work, I know how to process and apply information, I faithfully perform the assigned scope of work. I can go a long way towards the solution, but the rest of the solution will be simple and short.
 		<br />Ready to constantly report on the progress of tasks.</p>
 		<p>I'm interested in IT, modern technology, a bit of comics, a bit of anime, retro video games and freehand drawing.
-		<br />I hope my work makes the world a better place!</p>
-		<p><b>I'm a postgrad student of the second year of studies in the specialty 071 "Accounting and taxation" (UA). The topic of my research is 		"Accounting and auditing of virtual assets in the digital economy."</b>
-		<br />In 2026, I will defend my thesis at a specialized academic council for the degree of Doctor of Philosophy in Economics.</p>
+		<br />I hope my work makes me - a happy one, and the world - a better place!</p>
 	<h2>2. 🛠️ I’m currently working on:</h2>
 		<ul>
 		<li>📟 chatapp on React, Node.js and Socket.io.</li>
@@ -56,12 +56,4 @@
 		<p>My older brother called me a "red-haired Nerd" - out of my thirst for knowledge.🤓	
 		<br />And the younger one saw me as a super-hero - cause I could solve any problem.🦸‍♂️	
 		<br />As a result, I became a developer!🔬+⚡=👨‍💻</p>
-	<h2>5.	📨 How to reach me:</h2></div>
-	<div id="contact" align="left"; margin=5>
-		<blockquote>➡️	<a href="mailto:artemkucheriaviy@gmail.com?Subject=Hello from GitHub!">mail to 		coolatom</a>
-		<br />  ➡️	<a href="https://www.linkedin.com/in/artemkucheriavyi" target="_blank">coolatom in LinkedIn</a>
-		<br />  ➡️	<a href="https://www.facebook.com/artem.kucheriavyi/" target="_blank">coolatom in Facebook</a>
-		<br />  ➡️	<a href="https://t.me/kartemo" target="_blank">send massege to coolatom via Telegram</a>
-		<br />  ➡️	<a href="https://us04web.zoom.us/j/9920662363?pwd=R2FyUVBkZVhpRWNmZDcxNVBrUUM2Zz09" target="_blank">start meeting in Zoom with coolatom</a></blockquote>
-	</div>
 </div>
